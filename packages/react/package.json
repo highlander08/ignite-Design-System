@@ -1,5 +1,5 @@
 {
-  "name": "@rani-ignite-ui/react",
+  "name": "@ray-ignite-ui/react",
   "version": "2.0.1",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@rani-ignite-ui/eslint-config": "*",
-    "@rani-ignite-ui/tokens": "*",
-    "@rani-ignite-ui/ts-config": "*",
+    "@ray-ignite-ui/eslint-config": "*",
+    "@ray-ignite-ui/tokens": "*",
+    "@ray-ignite-ui/ts-config": "*",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",

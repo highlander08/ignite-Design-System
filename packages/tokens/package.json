@@ -1,5 +1,5 @@
 {
-  "name": "@rani-ignite-ui/tokens",
+  "name": "@ray-ignite-ui/tokens",
   "version": "1.1.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@rani-ignite-ui/ts-config": "*",
-    "@rani-ignite-ui/eslint-config": "*",
+    "@ray-ignite-ui/ts-config": "*",
+    "@ray-ignite-ui/eslint-config": "*",
     "tsup": "^6.2.3",
     "typescript": "^4.8.4"
   }
