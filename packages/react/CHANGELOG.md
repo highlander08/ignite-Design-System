@@ -1,4 +1,4 @@
-# @rani-ignite-ui/react
+# @ray-ignite-ui/react
 
 ## 2.0.1
 

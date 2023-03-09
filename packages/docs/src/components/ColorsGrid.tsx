@@ -1,4 +1,4 @@
-import { colors } from '@rani-ignite-ui/tokens'
+import { colors } from '@ray-ignite-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

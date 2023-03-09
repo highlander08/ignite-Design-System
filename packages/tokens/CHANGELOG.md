@@ -1,4 +1,4 @@
-# @rani-ignite-ui/tokens
+# @ray-ignite-ui/tokens
 
 ## 1.1.0
 
