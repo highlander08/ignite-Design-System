@@ -32,4 +32,4 @@ $ npm run dev
 
 ## 🖊️ Autor
 
-- [@raniellimontagna](https://www.github.com/raniellimontagna)
+- [@highlander08](https://www.github.com/highlander08)
